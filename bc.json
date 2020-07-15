@@ -203,7 +203,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",
