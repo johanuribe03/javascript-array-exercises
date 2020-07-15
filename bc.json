@@ -214,7 +214,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
