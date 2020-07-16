@@ -225,7 +225,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -236,7 +236,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
